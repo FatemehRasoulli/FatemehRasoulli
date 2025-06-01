@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 |---|
 | <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" /> CSS | <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="30" height="30" /> Sass | <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" /> Bootstrap |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" /> Git | <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" /> GitHub | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" /> Git | <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" /> GitHub |  |
 |---|---|---|
