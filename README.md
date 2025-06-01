@@ -24,3 +24,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/fatemeh-rasouli-2b2718307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein hajitabar" height="30" width="40" /></a>
 <a href="https://instagram.com/webobox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirdev_" height="30" width="40" /></a>
 </p>
+
+### Languages and Tools:
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) JavaScript | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) React | ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg) Redux |
+|---|---|---|
+| ![NextJs](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg) NextJs | ![NodeJs](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg) NodeJs | ![ExpressJs](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg) ExpressJs |
+| ![NestJs](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg) NestJs | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) TypeScript | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) HTML5 |
+| ![CSS](https://skillicons.dev/icons?i=css) CSS | ![Sass](https://skillicons.dev/icons?i=sass) Sass | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap |
+| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg) Git | ![GitHub](https://skillicons.dev/icons?i=github) GitHub | |
