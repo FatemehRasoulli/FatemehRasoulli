@@ -9,12 +9,39 @@ FatemehRasoulli/FatemehRasoulli is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JavaScript <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /> HTML5 <br/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" /> CSS
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="30" height="30" /> Sass
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" /> Bootstrap <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" /> Git
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" /> GitHub
-</p>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+    <p>JavaScript</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
+    <p>HTML5</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
+    <p>CSS</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" height="50">
+    <p>Sass</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50">
+    <p>Bootstrap</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50">
+    <p>Git</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px;">
+    <p>GitHub</p>
+  </div>
+</div>
