@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools:
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" style="width: 50px; height: 50px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="Sass" style="width: 50px; height: 50px;">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px;">
