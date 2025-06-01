@@ -9,39 +9,39 @@ FatemehRasoulli/FatemehRasoulli is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools:
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 30px;">
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-    <p>JavaScript</p>
+    <p style="margin: 5px 0 0;">JavaScript</p>
   </div>
 
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
-    <p>HTML5</p>
+    <p style="margin: 5px 0 0;">HTML5</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
-    <p>CSS</p>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
+    <p style="margin: 5px 0 0;">CSS</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="50" height="50">
-    <p>Sass</p>
+    <img src="https://skillicons.dev/icons?i=sass" alt="Sass" style="width: 50px; height: 50px;">
+    <p style="margin: 5px 0 0;">Sass</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="50" height="50">
-    <p>Bootstrap</p>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px;">
+    <p style="margin: 5px 0 0;">Bootstrap</p>
   </div>
 
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50">
-    <p>Git</p>
+    <p style="margin: 5px 0 0;">Git</p>
   </div>
 
   <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px;">
-    <p>GitHub</p>
+    <p style="margin: 5px 0 0;">GitHub</p>
   </div>
 </div>
