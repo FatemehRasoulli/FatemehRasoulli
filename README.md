@@ -9,11 +9,12 @@ FatemehRasoulli/FatemehRasoulli is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools:
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JavaScript |
-|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /> HTML5 |
-|---|
-| <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" /> CSS | <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="30" height="30" /> Sass | <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" /> Bootstrap |
-|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" /> Git | <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" /> GitHub |  |
-|---|---|---|
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JavaScript <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /> HTML5 <br/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30" /> CSS
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="30" height="30" /> Sass
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="30" height="30" /> Bootstrap <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" /> Git
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" /> GitHub
+</p>
