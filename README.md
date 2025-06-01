@@ -9,7 +9,7 @@ FatemehRasoulli/FatemehRasoulli is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ### Languages and Tools:
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) JavaScript | 
-|---|---|---|![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) HTML5 |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg) JavaScript |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) HTML5 |
 | ![CSS](https://skillicons.dev/icons?i=css) CSS | ![Sass](https://skillicons.dev/icons?i=sass) Sass | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap |
 | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg) Git | ![GitHub](https://skillicons.dev/icons?i=github) GitHub | |
