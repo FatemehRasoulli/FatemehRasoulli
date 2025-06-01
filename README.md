@@ -18,4 +18,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px;">
 </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/fatemeh-rasouli-2b2718307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein hajitabar" height="30" width="40" /></a>
+<a href="https://instagram.com/Webobox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirdev_" height="30" width="40" /></a>
 
