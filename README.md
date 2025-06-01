@@ -14,6 +14,5 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fatemeh-rasouli-2b2718307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein hajitabar" height="30" width="40" /></a>
-<a href="https://twitter.com/amir_hajitabar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amir_hajitabar" height="30" width="40" /></a>
-<a href="https://instagram.com/amirdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirdev_" height="30" width="40" /></a>
+<a href="https://instagram.com/webobox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirdev_" height="30" width="40" /></a>
 </p>
